@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Count="1" Active="Release">
+      <Item1 Name="Release">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <PathDelim Value="\"/>
+          <Target>
+            <Filename Value="validaCpfCnpj"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir)"/>
+            <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <CodeGeneration>
+            <SmartLinkUnit Value="True"/>
+            <Optimizations>
+              <OptimizationLevel Value="3"/>
+            </Optimizations>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <GenerateDebugInfo Value="False"/>
+            </Debugging>
+            <LinkSmart Value="True"/>
+            <Options>
+              <Win32>
+                <GraphicApplication Value="True"/>
+              </Win32>
+            </Options>
+          </Linking>
+        </CompilerOptions>
+      </Item1>
+    </BuildModes>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="validaCpfCnpj.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="36"/>
+        <CursorPos X="3" Y="38"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="uprincipal.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="34" Column="18" TopLine="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="43" Column="29" TopLine="18"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="19" Column="38" TopLine="9"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="37" Column="19" TopLine="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="34" Column="42" TopLine="19"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="37" Column="10" TopLine="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="19" Column="49" TopLine="5"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="34" Column="50" TopLine="10"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="43" Column="7" TopLine="14"/>
+      </Position10>
+      <Position11>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="39" Column="30" TopLine="24"/>
+      </Position11>
+      <Position12>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="142" Column="41" TopLine="133"/>
+      </Position12>
+      <Position13>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="104" Column="39" TopLine="91"/>
+      </Position13>
+      <Position14>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="142" Column="41" TopLine="120"/>
+      </Position14>
+      <Position15>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="104" Column="39" TopLine="91"/>
+      </Position15>
+      <Position16>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="142" Column="41" TopLine="120"/>
+      </Position16>
+      <Position17>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="30" TopLine="9"/>
+      </Position17>
+      <Position18>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="156" Column="13" TopLine="131"/>
+      </Position18>
+      <Position19>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="155" Column="13" TopLine="130"/>
+      </Position19>
+      <Position20>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="151" TopLine="124"/>
+      </Position20>
+      <Position21>
+        <Filename Value="uprincipal.pas"/>
+        <Caret Line="18" TopLine="2"/>
+      </Position21>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

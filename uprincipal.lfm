@@ -1,0 +1,27 @@
+object Form1: TForm1
+  Left = 1086
+  Height = 115
+  Top = 272
+  Width = 208
+  BorderStyle = bsDialog
+  Caption = 'CPF/CNPJ'
+  ClientHeight = 115
+  ClientWidth = 208
+  LCLVersion = '2.0.2.0'
+  object Edit1: TEdit
+    Left = 24
+    Height = 23
+    Top = 32
+    Width = 160
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 56
+    Height = 25
+    Top = 72
+    Width = 91
+    Caption = 'VALIDAR'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+end
